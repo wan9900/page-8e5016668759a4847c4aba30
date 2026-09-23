@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "21e64d107b97230bce0e06ba",
+  "owner": "wan9900",
+  "repo": "page-8e5016668759a4847c4aba30",
+  "title": "D2加速(D2)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e5016668759a4847c4aba30",
+      "a": "D2加速(D2)",
+      "b": "2027最新官网",
+      "entity": "D2加速(D2)",
+      "brand": "D2加速(D2)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0c32682e021cbaa62687bd021ea479d1155f9f03d9293e0ad7407ccd166dd1b4",
+      "content": {
+        "primary_entity": "D2加速(D2)",
+        "keyword1": "D2加速(D2)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，D2加速提供三种套餐：基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备并搭载IPLC专线；团队版每月1000GB流量、支持20台设备。年付可节省约两个月费用，按设备与流量选择即可快速开始。",
+          "AI_HERO_SUBTITLE": "D2加速：按设备与流量选套餐",
+          "AI_HERO_INTRO": "D2加速面向需要海外网络加速的用户，按设备数量与月流量划分基础版、旗舰版、团队版。日常轻度使用可选基础版，多设备与流媒体需求适合旗舰版，团队协作或高带宽场景可考虑团队版。",
+          "AI_VISUAL_TITLE": "灵活套餐，稳定加速",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付更划算",
+          "AI_HIGHLIGHT_3": "支持多台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路需求三个角度挑选合适的套餐。",
+          "AI_FEATURE_TITLE_1": "流量匹配设备",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合1至3台设备轻度使用，旗舰版300GB支持5台设备，团队版1000GB满足20台设备。",
+          "AI_FEATURE_TITLE_2": "线路影响体验",
+          "AI_FEATURE_TEXT_2": "旗舰版提供IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点，对延迟和稳定性要求高时优先考虑。",
+          "AI_FEATURE_TITLE_3": "年付节省开支",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持年付，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，比按月支付更经济。",
+          "AI_CLIENTS_TITLE": "常用客户端",
+          "AI_CLIENTS_INTRO": "在不同设备上使用D2加速，可参照对应客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合多设备与流媒体，团队版适合多人协作，按流量与设备数选择即可。",
+          "AI_GUIDE_TITLE": "选择套餐与配置",
+          "AI_GUIDE_INTRO": "根据设备数量与流量需求选定套餐，再按客户端说明完成订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中选定一档套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量、流媒体与专线权益，核对是否符合个人或团队使用场景。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端文档中导入订阅信息，完成配置后即可在支持的设备上使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选择更省心",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，开始使用D2加速。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "D2加速三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，主打基础流媒体解锁；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，提供VIP专属高带宽节点和企业定制路由。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "各档套餐分别限制3台、5台或20台设备同时在线，指同一时间发起的连接数量，超出后需断开其他设备再连接。",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付价格分别为15元、35元、85元；年付分别为150元、350元、850元。年付折算每月费用低于月付，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "如何为设备导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在对应客户端中找到订阅或配置导入入口，按客户端文档提供的步骤填入订阅信息并保存，之后刷新节点列表即可选择线路使用。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量额度用尽后连接会停止，可在下个计费周期恢复，也可以升级到更高流量档位继续使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gotz0la969l.com",
+    "host": "xn--yfrw1gotz0la969l.com"
+  },
+  "file_hashes": {
+    "index.html": "c80afeb6bbda3413ece88031b857c331b4a0a130f9ca1f8368697fde6d5ca0a5",
+    "sitemap.xml": "40fe892d61bc8fc2f225da9c9b5ad91ea2c2d4829332c77a4e58a2ae6be6f0d1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9f5da331f0a12eaff4f28e74078892a736330607d5d9c1a59bc40ca67221c511",
+    "robots.txt": "d5a24cc3b3913baf195c8cf82c96ffafe0780f57cfcfdcc65440246c24cb694b",
+    "0cd8545dc19d42506160f0cf13746995.txt": "2e1151317bbe24439cccc58077ae30412a03056d5d782d72ac742e178138d5cc"
+  },
+  "revision": "e12f2634ebafe2b97024ec4c1594bc7276328a3d708fae4cab3401b08b796ead"
+}
